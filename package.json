@@ -1,0 +1,19 @@
+{
+  "name": "dom-animator",
+  "version": "1.0.0",
+  "description": "A nifty JavaScript library, used to show small ASCII animations within comments in your dom. It's a little easter egg for anyone inspecting your code. Nothing more, nothing less.",
+  "main": "dom-animator.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loicnestler/dom-animator.git"
+  },
+  "author": "Loïc Nestler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loicnestler/dom-animator/issues"
+  },
+  "homepage": "https://github.com/loicnestler/dom-animator#readme"
+}
